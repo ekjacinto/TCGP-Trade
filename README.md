@@ -15,8 +15,6 @@ Explore player trade listings, meet users looking to trade for your Pokémon, an
   <img src='https://i.imgur.com/xxShjv0.png' title='Demo Screenshot 3' width='200' alt='Demo Screenshot 3' />
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 # Contributions
 
 This project was created by:
