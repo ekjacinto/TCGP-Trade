@@ -1,16 +1,26 @@
-# tcgp_trade
+<a name="readme-top"></a>
 
-A new Flutter project.
+<div align="center">
+  <h1 align="center">TCGP Trade</h1>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/flutter-20bcfd?style=for-the-badge&logo=flutter&logoColor=fff"/></a>
+</div>
 
-## Getting Started
+# About
 
-This project is a starting point for a Flutter application.
+Explore player trade listings, meet users looking to trade for your Pokémon, and expand your Pokédex with our built in catalogue features that allow you to explore cards posted for trade!
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src='https://i.imgur.com/ZQg1AqU.png' title='Demo Screenshot 1' width='216.9' height alt='Demo Screenshot 1' />
+  <img src='https://i.imgur.com/DzJXxQF.png' title='Demo Screenshot 2' width='200' alt='Demo Screenshot 2' />
+  <img src='https://i.imgur.com/RMlF5Uz.png' title='Demo Screenshot 3' width='200' alt='Demo Screenshot 3' />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Contributions
+
+This project was created by:
+- [Ethan Jacinto](https://github.com/ekjacinto)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
